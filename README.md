@@ -1,23 +1,20 @@
-# Проект 3: Путешествие по России
+# Russian travel
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+This site will tell you about the most beautiful corners of our country and help you decide on a trip for the 2020 season.
+It consists of the following sections:
 
-**Интро**
+1. What didn't we see there?
+2. Beautiful place:
+   * Kurshskaya kosa
+   * Kolsky
+   * Altai
+   * Winter Baikal
+   * Karelia
+3. To lake Baikal "on dogs"
+4. Useful links
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+The following technologies were used to develop the site:
+1. Html
+2. Css
 
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+Thank you Yandex.Praktikum for not letting us feel bored :)

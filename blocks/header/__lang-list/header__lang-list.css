@@ -1,0 +1,8 @@
+.header__lang-list {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  max-width: 78px;
+  list-style: none;
+  padding: 0;
+}
