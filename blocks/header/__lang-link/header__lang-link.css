@@ -10,7 +10,7 @@
 
 .header__lang-link:hover {
   transition: linear;
-  opacity: 0.6;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 320px){
