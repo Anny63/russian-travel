@@ -8,10 +8,21 @@
   font-weight: normal;
 }
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 720px){
+  .lead__subtitle {
+    font-size: 28px;
+  }
+}
+
+@media screen and (max-width: 540px){
   .lead__subtitle {
     font-size: 24px;
-    word-break: break-all;
+  }
+}
+
+@media screen and (max-width: 414px){
+  .lead__subtitle {
+    font-size: 20px;
   }
 }
 
